@@ -201,5 +201,12 @@
         "title": "Couldn't Stand The Weather",
         "releaseYear": "1984",
         "genre": "Blues"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Stevie Jay Vaughan",
+        "title": "Couldn't Stand The Sweater",
+        "releaseYear": "1984",
+        "genre": "Blues"
     }
 ]
